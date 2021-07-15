@@ -1,0 +1,9 @@
+{
+  "version": "v1",
+  "packages": {
+    "northants-design-system": {
+      "signature": "d359eeab26ba4307fc35969e8b4b939b",
+      "file": true
+    }
+  }
+}
