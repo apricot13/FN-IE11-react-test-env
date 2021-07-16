@@ -10,11 +10,15 @@ In order to test the design system locally we're using [yalc](https://www.npmjs.
 
 ## Setting up this repository to work with the [northants-design-system](https://github.com/FutureNorthants/northants-design-system)
 
+Good article on this can be found [here](https://www.viget.com/articles/how-to-use-local-unpublished-node-packages-as-project-dependencies/)
+
 Install yalc **globally**    
 Using NPM: `npm i yalc -g`  
 Using Yarn: `yarn global add yalc`  
 
 In the **northants-design-system**  
+You will need node v14.17.3 > to build on windows
+
 run `yalc publish`
 
 In **this repository**  
